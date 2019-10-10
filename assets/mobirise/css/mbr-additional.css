@@ -4539,6 +4539,105 @@ section.lazy-placeholder:after {
 .cid-rEakWdrjl2 .mbr-section-title {
   text-align: left;
 }
+.cid-rEm4J1lr2p {
+  padding-top: 75px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rEm4J1lr2p .mbr-text,
+.cid-rEm4J1lr2p blockquote {
+  color: #767676;
+}
+.cid-rEm4J1lr2p .mbr-text {
+  color: #232323;
+}
+.cid-rEm4WkbvlZ {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #f9f9f9;
+}
+.cid-rEm4WkbvlZ .mbr-section-subtitle {
+  color: #767676;
+  text-align: left;
+}
+.cid-rEm4WkbvlZ .container-table {
+  margin: 0 auto;
+}
+.cid-rEm4WkbvlZ .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-rEm4WkbvlZ .dataTables_wrapper {
+  display: block;
+}
+.cid-rEm4WkbvlZ .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-rEm4WkbvlZ .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-rEm4WkbvlZ table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #cccccc;
+  margin-bottom: 0;
+}
+.cid-rEm4WkbvlZ table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-rEm4WkbvlZ table th:hover {
+  background: #cccccc;
+  color: #000000;
+}
+.cid-rEm4WkbvlZ table td {
+  border-top: 1px solid #cccccc;
+}
+.cid-rEm4WkbvlZ table.table {
+  background: #ffffff;
+}
+.cid-rEm4WkbvlZ .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-rEm4WkbvlZ .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-rEm4WkbvlZ .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-rEm4WkbvlZ .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+  text-align: left;
+}
+@media (max-width: 992px) {
+  .cid-rEm4WkbvlZ .dataTables_filter {
+    text-align: center;
+  }
+}
+@media (max-width: 350px) {
+  .cid-rEm4WkbvlZ .dataTables_filter {
+    text-align: center;
+  }
+  .cid-rEm4WkbvlZ .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+}
+.cid-rEm4WkbvlZ .body-item {
+  text-align: left;
+}
+.cid-rEm4WkbvlZ .mbr-section-title {
+  text-align: left;
+}
 .cid-rCVqgW8TjD {
   padding-top: 75px;
   padding-bottom: 0px;
